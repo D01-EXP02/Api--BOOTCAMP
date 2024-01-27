@@ -1,0 +1,15 @@
+#contenedor_principal{
+    display: flex;
+}
+
+#formulario{
+    width: 30%;
+    background: lightgreen;
+    border: solid black 2px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-49%, -49%);
+    text-align: center;
+}
